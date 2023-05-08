@@ -1,0 +1,44 @@
+h1 {
+    font-size: 25px;
+    width: 500px;
+    margin:0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-left: 3px solid red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    background-color: #dadadc;
+}
+
+form {
+    margin: 0 auto;
+    background-color: #f0ede8;
+    border: 3px solid #dadadc;
+    border-radius: 10px;
+    width: 500px;
+}
+
+form div {
+    padding: 15px;
+}
+
+form div h2 {
+    font-size: 20px;
+}
+
+.text, .age, textarea {
+    border: 1px solid #dadadc;
+    padding: 5px;
+    color: #8e8f92;
+    background-color: #ffffff;
+}
+
+.submit {
+    border: 1px solid #dadadc;
+    color: #ffffff;
+    background-color: #8e8f92;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border-bottom: 3px solid #6f6869;
+}
